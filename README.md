@@ -1,0 +1,2 @@
+# salon_appointment_scheduler_bash_postgres
+Interactive appointment scheduler built with Bash and PostgreSQL
